@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d51d4d63-7881-4f22-bab9-fa5aeb9094da" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../programPackage/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\programPackage\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1o9bhDgB8uTZEC6RzR1Fqr5nOKd" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../android_SDK" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../codingTest" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunManager" selected="Application.ProxyPatternDemo">
+    <configuration name="CompositePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompositePattern.CompositePatternDemo" />
+      <module name="DesignModel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CompositePattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecoratorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecoratorPattern.DecoratorPatternDemo" />
+      <module name="DesignModel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DecoratorPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FacadePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FacadePattern.FacadePatternDemo" />
+      <module name="DesignModel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FacadePattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlyweightPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FlyweightPattern.FlyweightPatternDemo" />
+      <module name="DesignModel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FlyweightPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProxyPattern.ProxyPatternDemo" />
+      <module name="DesignModel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProxyPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProxyPatternDemo" />
+        <item itemvalue="Application.FlyweightPatternDemo" />
+        <item itemvalue="Application.FacadePatternDemo" />
+        <item itemvalue="Application.DecoratorPatternDemo" />
+        <item itemvalue="Application.CompositePatternDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d51d4d63-7881-4f22-bab9-fa5aeb9094da" name="Default Changelist" comment="" />
+      <created>1591002460434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591002460434</updated>
+      <workItem from="1591002462968" duration="1717000" />
+      <workItem from="1591602703448" duration="703000" />
+      <workItem from="1593246424061" duration="810000" />
+      <workItem from="1594195179045" duration="1043000" />
+      <workItem from="1598881073509" duration="678000" />
+      <workItem from="1598883691694" duration="12000" />
+      <workItem from="1605449861666" duration="90000" />
+      <workItem from="1605449999602" duration="26000" />
+      <workItem from="1605450073436" duration="12000" />
+      <workItem from="1605450151852" duration="50000" />
+      <workItem from="1612701873309" duration="95000" />
+      <workItem from="1612702274938" duration="6910000" />
+      <workItem from="1613646458252" duration="338000" />
+      <workItem from="1613646838412" duration="295000" />
+      <workItem from="1613740127526" duration="5117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1613745015278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1613745015278" />
+    <state width="1245" height="219" key="GridCell.Tab.0.bottom" timestamp="1613746492656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1245" height="219" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613746492656" />
+    <state width="1245" height="219" key="GridCell.Tab.0.center" timestamp="1613746492656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1245" height="219" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613746492656" />
+    <state width="1245" height="219" key="GridCell.Tab.0.left" timestamp="1613746492656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1245" height="219" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613746492656" />
+    <state width="1245" height="219" key="GridCell.Tab.0.right" timestamp="1613746492656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1245" height="219" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613746492656" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1613740453480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613740453480" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1613740453480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1613740453480" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1613740453480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1613740453480" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1613740453480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1613740453480" />
+    <state x="258" y="82" key="SettingsEditor" timestamp="1613742606010">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="258" y="82" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1613742606010" />
+    <state x="419" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1613742534831">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="419" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1613742534831" />
+  </component>
+</project>
