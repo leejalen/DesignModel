@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d51d4d63-7881-4f22-bab9-fa5aeb9094da" name="Default Changelist" comment="" />
+    <list default="true" id="d51d4d63-7881-4f22-bab9-fa5aeb9094da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibilityPattern/ChainPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibilityPattern/function/AbstractLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibilityPattern/function/impl/DebugLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibilityPattern/function/impl/ErrorLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibilityPattern/function/impl/InfoLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +27,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -28,6 +39,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1o9bhDgB8uTZEC6RzR1Fqr5nOKd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -40,13 +52,13 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Application.ProxyPatternDemo">
-    <configuration name="CompositePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CompositePattern.CompositePatternDemo" />
+  <component name="RunManager" selected="Application.ChainPatternDemo">
+    <configuration name="ChainPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChainOfResponsibilityPattern.ChainPatternDemo" />
       <module name="DesignModel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CompositePattern.*" />
+          <option name="PATTERN" value="ChainOfResponsibilityPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,26 +118,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChainPatternDemo" />
         <item itemvalue="Application.ProxyPatternDemo" />
         <item itemvalue="Application.FlyweightPatternDemo" />
         <item itemvalue="Application.FacadePatternDemo" />
         <item itemvalue="Application.DecoratorPatternDemo" />
-        <item itemvalue="Application.CompositePatternDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +164,8 @@
       <workItem from="1612702274938" duration="6910000" />
       <workItem from="1613646458252" duration="338000" />
       <workItem from="1613646838412" duration="295000" />
-      <workItem from="1613740127526" duration="5117000" />
+      <workItem from="1613740127526" duration="5566000" />
+      <workItem from="1614006589146" duration="677000" />
     </task>
     <servers />
   </component>
@@ -162,42 +173,50 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1613745015278">
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1614006937241">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1613745015278" />
-    <state width="1245" height="219" key="GridCell.Tab.0.bottom" timestamp="1613746492656">
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1614006937241" />
+    <state x="702" y="368" key="Github.ShareDialog" timestamp="1613747639618">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1245" height="219" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613746492656" />
-    <state width="1245" height="219" key="GridCell.Tab.0.center" timestamp="1613746492656">
+    <state x="702" y="368" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1613747639618" />
+    <state x="490" y="109" key="Github.UntrackedFilesDialog" timestamp="1613747654174">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1245" height="219" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613746492656" />
-    <state width="1245" height="219" key="GridCell.Tab.0.left" timestamp="1613746492656">
+    <state x="490" y="109" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1613747654174" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1613747788414">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1245" height="219" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613746492656" />
-    <state width="1245" height="219" key="GridCell.Tab.0.right" timestamp="1613746492656">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613747788414" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1613747788414">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1245" height="219" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613746492656" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1613740453480">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613747788414" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1613747788414">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613740453480" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1613740453480">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613747788414" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1613747788414">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1613740453480" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1613740453480">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613747788414" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1613747788415">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1613740453480" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1613740453480">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613747788415" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1613747788414">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1613740453480" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1613747788414" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1613747788414">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1613747788414" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1613747788415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1613747788415" />
     <state x="258" y="82" key="SettingsEditor" timestamp="1613742606010">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
